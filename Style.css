@@ -86,7 +86,7 @@ button:hover{
 }
 .persons img{
     width: 90%;
-    height: 500px;
+    height: 400px;
 }
 .gelik{
     display: flex;
@@ -173,3 +173,4 @@ footer{
     padding: 20px;
 
 }
+
