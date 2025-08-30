@@ -79,6 +79,7 @@ button:hover{
     display: flex;
     justify-content: center;
     height: 600px;
+    text-align:center;
 }
 .persons div{
     width: 30%;
@@ -173,4 +174,5 @@ footer{
     padding: 20px;
 
 }
+
 
